@@ -1,0 +1,10 @@
+C:\TelematicsProject\db_service\PowerLib\PowerLib\bin\Release\PowerLib.dll
+C:\TelematicsProject\db_service\PowerLib\PowerLib\bin\Release\PowerLib.pdb
+C:\TelematicsProject\db_service\PowerLib\PowerLib\obj\Release\PowerLib.csprojResolveAssemblyReference.cache
+C:\TelematicsProject\db_service\PowerLib\PowerLib\obj\Release\PowerLib.dll
+C:\TelematicsProject\db_service\PowerLib\PowerLib\obj\Release\PowerLib.pdb
+C:\TelematicsProject\test_system\power_supply\PowerLib\PowerLib\bin\Release\PowerLib.dll
+C:\TelematicsProject\test_system\power_supply\PowerLib\PowerLib\bin\Release\PowerLib.pdb
+C:\TelematicsProject\test_system\power_supply\PowerLib\PowerLib\obj\Release\PowerLib.csprojResolveAssemblyReference.cache
+C:\TelematicsProject\test_system\power_supply\PowerLib\PowerLib\obj\Release\PowerLib.dll
+C:\TelematicsProject\test_system\power_supply\PowerLib\PowerLib\obj\Release\PowerLib.pdb

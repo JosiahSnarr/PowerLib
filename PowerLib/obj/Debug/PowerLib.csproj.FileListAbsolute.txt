@@ -1,0 +1,4 @@
+C:\TelematicsProject\db_service\PowerLib\PowerLib\obj\Debug\PowerLib.csprojResolveAssemblyReference.cache
+C:\TelematicsProject\db_service\PowerLib\PowerLib\bin\Debug\PowerLib.pdb
+C:\TelematicsProject\db_service\PowerLib\PowerLib\obj\Debug\PowerLib.dll
+C:\TelematicsProject\db_service\PowerLib\PowerLib\obj\Debug\PowerLib.pdb
